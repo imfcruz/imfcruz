@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello World 👋
 
-<!--
-**imfcruz/imfcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fernando, an Analysis and Systems Development student at FATEC, focused on back-end development and building scalable applications.
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+> Back-end Developer
+> ADS @ FATEC
+> São Paulo, Brazil
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## < Tech Stack />
+
+### Main Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,postgres,mysql,git,linux" />
+</p>
+
+### Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,angular" />
+</p>
