@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="./assets/banner-header-github.gif" width="100%" alt="Fernando Cruz - Back-end Developer" />
+</p>
+
 # Hello World 👋
 
-I'm Fernando, an Analysis and Systems Development student at FATEC, focused on back-end development and building scalable applications.
+I'm Fernando, an Analysis and Systems Development student at FATEC, focused on back-end development with Java, Spring Boot and Node.js.
 
 ```bash
 $ whoami
@@ -22,3 +26,9 @@ $ whoami
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,angular" />
 </p>
+
+## < Connect with me />
+
+<a href="www.linkedin.com/in/fernando-ccruz">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
